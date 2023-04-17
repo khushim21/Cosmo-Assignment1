@@ -9,7 +9,7 @@ Types that you should handle:
 - Boolean
 - Object
 
-# TASK
+# Task
 1. Create such component
 2. It should be able to render this interface if given in some data form.
 3. User should be able to edit name of a field
